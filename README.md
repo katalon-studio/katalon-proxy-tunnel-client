@@ -9,7 +9,7 @@
 ### 1. Add the Helm repository                                           
                                                                          
 ```sh                                                           
-helm repo add katalon-tunnel https://raw.githubusercontent.com/katalon-studio/katalon-proxy-tunnel-client/refs/heads/release
+helm repo add katalon https://raw.githubusercontent.com/katalon-studio/katalon-proxy-tunnel-client/refs/heads/release
 helm repo update                                                         
 ```
  
