@@ -3,6 +3,16 @@ entries:
   katalon-tunnel:
   - apiVersion: v2
     appVersion: 1.3.11
+    created: "2026-09-11T10:37:26.679482054Z"
+    description: A Katalon Tunnel Helm chart for Kubernetes
+    digest: ef0ceec6c55d18dfc7d766644246bf673424a0d4a3283621d7193dbfffc09cb3
+    name: katalon-tunnel
+    type: application
+    urls:
+    - https://github.com/katalon-studio/katalon-proxy-tunnel-client/releases/download/helm-chart-v0.2.0/katalon-tunnel-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.3.11
     created: "2026-05-12T07:30:36.107157344Z"
     description: A Katalon Tunnel Helm chart for Kubernetes
     digest: 4de92be8e772286acb341eb60ef7020be107772df51f4181e1e535e059483c1a
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/katalon-studio/katalon-proxy-tunnel-client/releases/download/helm-chart-v0.1.0/katalon-tunnel-0.1.0.tgz
     version: 0.1.0
-generated: "2026-05-12T07:30:36.106619219Z"
+generated: "2026-09-11T10:37:26.678828344Z"
